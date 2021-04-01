@@ -1,0 +1,18 @@
+.Mui-selected{
+    background-color:  #C41152 !important;
+    color: white !important;
+}
+
+.MuiBox-root-7, .MuiBox-root-11{
+    padding: 10px !important;
+}
+
+.MuiAppBar-positionStatic{
+    width: 90vw !important;
+    margin-left: 5vw !important;
+    border-radius: 5px !important;
+}
+
+.MuiTabs-root{
+    border-radius: 5px !important;
+}

@@ -1,0 +1,22 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+    border-top: 0.3px solid #e0e0e0;
+    padding: 10px;
+    margin:0px
+}
+
+a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+.missions, .carte{
+    margin-top: 5px;
+}
+
+
+
+

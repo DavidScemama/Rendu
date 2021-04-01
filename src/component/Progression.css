@@ -1,0 +1,15 @@
+.all{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.Bar{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

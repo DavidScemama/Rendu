@@ -1,0 +1,18 @@
+.MonCompte{
+    border-radius: 8px;
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.75);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    background-color: #f2f2f9;
+    margin-bottom: 70px;
+}
+
+.Solde{
+    margin: 25px 0px 0 10px;
+}
+
+p{
+    font-family: 'Ubuntu', sans-serif;
+}
